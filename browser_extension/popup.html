@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            width: 320px;
+            padding: 16px;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-size: 14px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 16px;
+            color: #2c3e50;
+        }
+        .status-card {
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            border-left: 4px solid;
+        }
+        .connected {
+            background-color: #e8f5e8;
+            border-left-color: #27ae60;
+        }
+        .disconnected {
+            background-color: #fde8e8;
+            border-left-color: #e74c3c;
+        }
+        .info-section {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 6px;
+            margin: 10px 0;
+            font-size: 12px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-top: 8px;
+        }
+        button:hover {
+            background: #2980b9;
+        }
+        .domain {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .time {
+            color: #7f8c8d;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h3 style="margin: 0;">🌐 Productivity Tracker</h3>
+    </div>
+
+    <div id="statusCard" class="status-card">
+        <div style="font-weight: bold;">Status: <span id="statusText">Checking...</span></div>
+        <div id="statusMessage" style="font-size: 12px; margin-top: 4px;"></div>
+    </div>
+
+    <div class="info-section">
+        <div><span class="domain">Current Site:</span> <span id="currentSite">Loading...</span></div>
+        <div class="time">Tracking Since: <span id="trackingTime">-</span></div>
+    </div>
+
+    <div class="info-section">
+        <strong>How it works:</strong>
+        <ul style="margin: 8px 0; padding-left: 16px;">
+            <li>Tracks time spent on websites</li>
+            <li>Classifies productivity automatically</li>
+            <li>Data stays on your computer</li>
+        </ul>
+    </div>
+
+    <button id="refreshBtn">🔄 Refresh Status</button>
+
+    <script src="popup.js"></script>
+</body>
+</html>

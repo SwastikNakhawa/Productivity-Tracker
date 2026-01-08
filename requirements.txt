@@ -1,0 +1,33 @@
+# Core dependencies
+pywin32
+psutil==5.9.6
+pynput==1.7.6
+pygetwindow==0.0.9
+pyautogui==0.9.54
+
+# GUI Framework
+PyQt6==6.6.1
+PyQt6-WebEngine==6.6.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+customtkinter>=5.2.0
+win10toast>=0.9
+
+# Web Framework for local server
+flask==3.0.0
+flask-socketio==5.3.6
+python-socketio==5.10.0
+
+# LLM Integration
+openai==1.3.9
+requests==2.31.0
+
+# Data processing - USE PRE-COMPILED VERSIONS
+pandas==2.0.3  # Older but pre-compiled
+numpy==1.24.3  # Compatible version
+matplotlib>=3.7.0  # For charts and visualizations
+
+# Development tools
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0

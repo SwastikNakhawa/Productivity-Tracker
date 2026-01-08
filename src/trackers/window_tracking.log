@@ -1,0 +1,88 @@
+2025-10-04 00:45:27,207 - __main__ - INFO - RealWindowsTracker initialized with Windows API
+2025-10-04 00:45:39,280 - __main__ - INFO - 🎯 Starting real window tracking loop
+2025-10-04 00:45:39,280 - __main__ - INFO - 🏁 Real window tracking STARTED
+2025-10-04 00:45:39,281 - __main__ - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 00:46:05,289 - __main__ - INFO - 💾 Tracked pycharm64.exe for 26s (ID: 1)
+2025-10-04 00:46:05,289 - __main__ - INFO - 🔄 Window changed: pycharm64.exe → chrome.exe
+2025-10-04 00:46:07,290 - __main__ - INFO - 💾 Tracked chrome.exe for 2s (ID: 2)
+2025-10-04 00:46:07,291 - __main__ - INFO - 🔄 Window changed: chrome.exe → pycharm64.exe
+2025-10-04 00:46:25,297 - __main__ - INFO - 💾 Tracked pycharm64.exe for 18s (ID: 3)
+2025-10-04 00:46:25,298 - __main__ - INFO - 🔄 Window changed: pycharm64.exe → ApplicationFrameHost.exe
+2025-10-04 00:46:27,298 - __main__ - INFO - 💾 Tracked ApplicationFrameHost.exe for 2s (ID: 4)
+2025-10-04 00:46:27,299 - __main__ - INFO - 🔄 Window changed: ApplicationFrameHost.exe → pycharm64.exe
+2025-10-04 00:47:03,308 - __main__ - INFO - 💾 Tracked pycharm64.exe for 36s (ID: 5)
+2025-10-04 00:47:03,309 - __main__ - INFO - 🔄 Window changed: pycharm64.exe → explorer.exe
+2025-10-04 00:47:05,309 - __main__ - INFO - 💾 Tracked explorer.exe for 2s (ID: 6)
+2025-10-04 00:47:05,309 - __main__ - INFO - 🔄 Window changed: explorer.exe → pycharm64.exe
+2025-10-04 00:48:05,329 - __main__ - INFO - 💾 Tracked pycharm64.exe for 60s (ID: 7)
+2025-10-04 00:48:05,329 - __main__ - INFO - 🔄 Window changed: pycharm64.exe → explorer.exe
+2025-10-04 00:48:09,331 - __main__ - INFO - 💾 Tracked explorer.exe for 4s (ID: 8)
+2025-10-04 00:48:09,331 - __main__ - INFO - 🔄 Window changed: explorer.exe → pycharm64.exe
+2025-10-04 00:48:13,332 - __main__ - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 9)
+2025-10-04 00:48:13,332 - __main__ - INFO - 🔄 Window changed: pycharm64.exe → explorer.exe
+2025-10-04 00:48:15,333 - __main__ - INFO - 💾 Tracked explorer.exe for 2s (ID: 10)
+2025-10-04 00:48:15,333 - __main__ - INFO - 🔄 Window changed: explorer.exe → chrome.exe
+2025-10-04 00:52:03,492 - __main__ - INFO - 💾 Tracked chrome.exe for 228s (ID: 11)
+2025-10-04 00:52:03,492 - __main__ - INFO - 🔄 Window changed: chrome.exe → pycharm64.exe
+2025-10-04 00:52:09,371 - __main__ - INFO - RealWindowsTracker initialized with proper signal handling
+2025-10-04 00:52:18,503 - __main__ - INFO - 🎯 Starting real window tracking loop
+2025-10-04 00:52:18,504 - __main__ - INFO - 🏁 Real window tracking STARTED
+2025-10-04 00:52:18,504 - __main__ - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 00:52:23,508 - __main__ - INFO - 💾 Tracked pycharm64.exe for 5s (ID: 1)
+2025-10-04 00:52:23,509 - __main__ - INFO - 🛑 Real window tracking STOPPED
+2025-10-04 00:52:45,827 - __main__ - INFO - RealWindowsTracker initialized with proper signal handling
+2025-10-04 00:52:49,339 - __main__ - INFO - 🎯 Starting real window tracking loop
+2025-10-04 00:52:49,339 - __main__ - INFO - 🏁 Real window tracking STARTED
+2025-10-04 00:52:49,339 - __main__ - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 00:52:54,344 - __main__ - INFO - 💾 Tracked pycharm64.exe for 5s (ID: 1)
+2025-10-04 00:52:54,344 - __main__ - INFO - 🛑 Real window tracking STOPPED
+2025-10-04 00:57:11,488 - __main__ - INFO - RealWindowsTracker initialized
+2025-10-04 00:57:16,413 - __main__ - INFO - 🎯 Starting real window tracking loop
+2025-10-04 00:57:16,413 - __main__ - INFO - 🏁 Real window tracking STARTED
+2025-10-04 00:57:16,414 - __main__ - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 00:57:20,428 - __main__ - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 1)
+2025-10-04 00:57:20,428 - __main__ - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 00:57:22,431 - __main__ - INFO - 💾 Tracked explorer.exe for 2s (ID: 2)
+2025-10-04 00:57:22,431 - __main__ - INFO - 🔄 explorer.exe → pycharm64.exe
+2025-10-04 00:57:40,492 - __main__ - INFO - 💾 Tracked pycharm64.exe for 18s (ID: 3)
+2025-10-04 00:57:40,492 - __main__ - INFO - 🔄 pycharm64.exe → ApplicationFrameHost.exe
+2025-10-04 00:57:42,493 - __main__ - INFO - 💾 Tracked ApplicationFrameHost.exe for 2s (ID: 4)
+2025-10-04 00:57:42,494 - __main__ - INFO - 🔄 ApplicationFrameHost.exe → pycharm64.exe
+2025-10-04 00:57:54,523 - __main__ - INFO - 💾 Tracked pycharm64.exe for 12s (ID: 5)
+2025-10-04 00:57:54,523 - __main__ - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 00:57:56,534 - __main__ - INFO - 💾 Tracked explorer.exe for 2s (ID: 6)
+2025-10-04 00:57:56,534 - __main__ - INFO - 🔄 explorer.exe → pycharm64.exe
+2025-10-04 00:58:10,610 - __main__ - INFO - 💾 Tracked pycharm64.exe for 14s (ID: 7)
+2025-10-04 00:58:10,610 - __main__ - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 00:58:12,625 - __main__ - INFO - 💾 Tracked chrome.exe for 2s (ID: 8)
+2025-10-04 00:58:12,626 - __main__ - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 00:58:33,080 - __main__ - INFO - 💾 Tracked pycharm64.exe for 20s (ID: 9)
+2025-10-04 00:58:33,080 - __main__ - INFO - 🛑 Real window tracking STOPPED
+2025-10-04 01:03:37,902 - __main__ - INFO - RealWindowsTracker initialized
+2025-10-04 01:03:41,972 - __main__ - INFO - 🎯 Starting real window tracking loop
+2025-10-04 01:03:41,973 - __main__ - INFO - 🏁 Real window tracking STARTED
+2025-10-04 01:03:41,973 - __main__ - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 01:03:52,009 - __main__ - INFO - 💾 Tracked pycharm64.exe for 10s (ID: 1)
+2025-10-04 01:03:52,009 - __main__ - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:03:54,009 - __main__ - INFO - 💾 Tracked chrome.exe for 1s (ID: 2)
+2025-10-04 01:03:54,010 - __main__ - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:03:58,025 - __main__ - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 3)
+2025-10-04 01:03:58,025 - __main__ - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:04:00,026 - __main__ - INFO - 💾 Tracked explorer.exe for 2s (ID: 4)
+2025-10-04 01:04:00,027 - __main__ - INFO - 🔄 explorer.exe → pycharm64.exe
+2025-10-04 01:04:19,430 - __main__ - INFO - 💾 Tracked pycharm64.exe for 19s (ID: 5)
+2025-10-04 01:04:19,430 - __main__ - INFO - 🛑 Real window tracking STOPPED
+2025-11-07 01:17:55,339 - __main__ - INFO - Enhanced RealWindowsTracker initialized
+2025-11-07 01:39:48,060 - __main__ - INFO - Enhanced RealWindowsTracker initialized
+2025-11-07 01:40:41,541 - __main__ - INFO - Enhanced RealWindowsTracker initialized
+2025-11-09 00:15:52,311 - __main__ - INFO - Enhanced RealWindowsTracker with focus tracking initialized
+2025-11-09 00:16:04,309 - __main__ - INFO - 🎯 Starting enhanced window tracking loop with focus tracking
+2025-11-09 00:16:04,309 - __main__ - INFO - 🏁 Enhanced window tracking with focus tracking STARTED
+2025-11-09 00:16:04,310 - __main__ - INFO - 🎯 Started tracking: pycharm64.exe (productive) [confidence: 0.80]
+2025-11-09 00:16:10,342 - __main__ - INFO - 💾 Tracked pycharm64.exe for 6s - productive (score: 100, confidence: 0.80)
+2025-11-09 00:16:10,342 - __main__ - INFO - 🔄 pycharm64.exe (productive) → explorer.exe (system) [confidence: 0.70]
+2025-11-09 00:16:12,351 - __main__ - INFO - 🔄 explorer.exe (system) → explorer.exe (system) [confidence: 0.70]
+2025-11-09 00:16:14,360 - __main__ - INFO - 🔄 explorer.exe (system) → pycharm64.exe (productive) [confidence: 0.80]
+2025-11-09 00:16:22,398 - __main__ - INFO - 💾 Tracked pycharm64.exe for 8s - productive (score: 100, confidence: 0.80)
+2025-11-09 00:16:22,398 - __main__ - INFO - 🔄 pycharm64.exe (productive) → pycharm64.exe (productive) [confidence: 0.70]
+2025-11-09 00:16:23,550 - __main__ - INFO - 🛑 Enhanced window tracking STOPPED

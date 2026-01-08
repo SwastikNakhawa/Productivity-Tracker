@@ -1,0 +1,15 @@
+2025-10-04 00:35:58,909 - __main__ - INFO - WindowsActivityTracker initialized
+2025-10-04 00:35:58,910 - __main__ - INFO - Classified as productive (score: 90)
+2025-10-04 00:35:58,910 - __main__ - INFO - Would save activity: {'app_name': 'code.exe', 'window_title': 'main.py - Productivity Tracker', 'category': 'productive', 'productivity_score': 90, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 910302), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 910307), 'duration': 300, 'tags': ['simulated', 'test']}
+2025-10-04 00:35:58,910 - __main__ - INFO - Classified as learning (score: 85)
+2025-10-04 00:35:58,910 - __main__ - INFO - Would save activity: {'app_name': 'chrome.exe', 'window_title': 'YouTube - Watch Videos', 'category': 'learning', 'productivity_score': 85, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 910840), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 910845), 'duration': 300, 'tags': ['simulated', 'test']}
+2025-10-04 00:35:58,910 - __main__ - INFO - Classified as learning (score: 85)
+2025-10-04 00:35:58,911 - __main__ - INFO - Would save activity: {'app_name': 'chrome.exe', 'window_title': 'Stack Overflow - Python Question', 'category': 'learning', 'productivity_score': 85, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 911022), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 911025), 'duration': 300, 'tags': ['simulated', 'test']}
+2025-10-04 00:35:58,911 - __main__ - INFO - Classified as entertainment (score: 20)
+2025-10-04 00:35:58,911 - __main__ - INFO - Would save activity: {'app_name': 'spotify.exe', 'window_title': 'Spotify', 'category': 'entertainment', 'productivity_score': 20, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 911155), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 911158), 'duration': 300, 'tags': ['simulated', 'test']}
+2025-10-04 00:35:58,911 - __main__ - INFO - Classified as communication (score: 70)
+2025-10-04 00:35:58,911 - __main__ - INFO - Would save activity: {'app_name': 'slack.exe', 'window_title': 'Team Chat', 'category': 'communication', 'productivity_score': 70, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 911279), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 911290), 'duration': 300, 'tags': ['simulated', 'test']}
+2025-10-04 00:35:58,911 - __main__ - INFO - Classified as neutral (score: 50)
+2025-10-04 00:35:58,911 - __main__ - INFO - Would save activity: {'app_name': 'explorer.exe', 'window_title': 'Documents', 'category': 'neutral', 'productivity_score': 50, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 911415), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 911418), 'duration': 300, 'tags': ['simulated', 'test']}
+2025-10-04 00:35:58,911 - __main__ - INFO - Classified as neutral (default)
+2025-10-04 00:35:58,911 - __main__ - INFO - Would save activity: {'app_name': 'unknown.exe', 'window_title': 'Some Random App', 'category': 'neutral', 'productivity_score': 50, 'start_time': datetime.datetime(2025, 10, 4, 0, 30, 58, 911539), 'end_time': datetime.datetime(2025, 10, 4, 0, 35, 58, 911541), 'duration': 300, 'tags': ['simulated', 'test']}

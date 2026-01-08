@@ -1,0 +1,268 @@
+2026-01-08 14:48:13,150 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 14:48:13,150 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 14:48:13,150 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:48:14,213 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:48:14,215 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:48:32,441 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello World!...
+2026-01-08 14:48:32,442 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 14:48:32,443 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 14:48:32,443 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 14:48:32,443 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 14:48:32,444 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 14:48:32,444 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:48:33,487 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:48:34,631 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:48:35,658 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:48:35,658 - main_modern_gui - INFO - ✅ LLM Client connected and ready!
+2026-01-08 14:48:35,660 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 14:48:35,660 - main_modern_gui - INFO - ✅ Database initialized
+2026-01-08 14:48:35,662 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 14:48:35,662 - main_app - INFO - ✅ Database setup completed
+2026-01-08 14:48:35,663 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:48:36,684 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:48:36,685 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:48:37,910 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello World!...
+2026-01-08 14:48:37,911 - main_app - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 14:48:37,912 - main_app - INFO - 🧠 LLM Learning System initialized
+2026-01-08 14:48:37,912 - main_app - INFO - Productivity Agent initialized
+2026-01-08 14:48:37,912 - main_modern_gui - INFO - ✅ Productivity Agent initialized
+2026-01-08 14:48:37,913 - trackers.window_tracker - INFO - Enhanced RealWindowsTracker with focus tracking initialized
+2026-01-08 14:48:37,913 - main_modern_gui - INFO - ✅ Window tracker initialized
+2026-01-08 14:48:37,913 - main_modern_gui - INFO - 
+🎯 COMPONENT STATUS:
+• LLM: ✅ Available
+• Database: ✅ Ready
+• Agent: ✅ Active
+• Tracker: ✅ Ready
+
+2026-01-08 14:48:38,829 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:48:39,872 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:48:57,433 - trackers.window_tracker - INFO - 🎯 Starting enhanced window tracking loop with focus tracking
+2026-01-08 14:48:57,433 - trackers.window_tracker - INFO - 🏁 Enhanced window tracking with focus tracking STARTED
+2026-01-08 14:48:57,441 - main_modern_gui - INFO - Tracking started
+2026-01-08 14:48:57,445 - trackers.window_tracker - INFO - 🎯 Started tracking: python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:49:01,457 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → Cursor.exe (productive) [confidence: 0.70]
+2026-01-08 14:49:07,485 - database.db - INFO - 📝 Logged activity: Cursor.exe (ID: 1)
+2026-01-08 14:49:07,485 - trackers.window_tracker - INFO - 💾 Tracked Cursor.exe for 6s - productive (score: 95, confidence: 0.70)
+2026-01-08 14:49:07,485 - trackers.window_tracker - INFO - 🔄 Cursor.exe (productive) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:49:13,511 - database.db - INFO - 📝 Logged activity: python.exe (ID: 2)
+2026-01-08 14:49:13,512 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 6s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:49:13,512 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → Cursor.exe (productive) [confidence: 0.70]
+2026-01-08 14:49:32,444 - __main__ - INFO - 🔄 Running learning cycle #1
+2026-01-08 14:49:32,445 - analysis.llm_learning_system - INFO - 🧠 Starting LLM learning cycle...
+2026-01-08 14:49:32,454 - database.db - INFO - 💾 Saved productivity pattern: productive_hours
+2026-01-08 14:49:32,454 - analysis.llm_learning_system - INFO - 📊 Learned from patterns: 1 productive hours, 0 preferred apps
+2026-01-08 14:49:32,458 - analysis.llm_learning_system - INFO - Successful patterns: {'response_length': [], 'content_type': [], 'tone_analysis': [], 'specificity_level': []}
+2026-01-08 14:49:32,458 - analysis.llm_learning_system - INFO - Improvement areas: {'too_generic': 0, 'wrong_tone': 0, 'irrelevant': 0, 'too_long': 0, 'too_short': 0}
+2026-01-08 14:49:32,458 - analysis.llm_learning_system - INFO - 📝 Learned from feedback: 0 positive, 0 negative
+2026-01-08 14:49:32,461 - analysis.llm_learning_system - INFO - 💾 Saved personalization rules
+2026-01-08 14:49:32,462 - analysis.llm_learning_system - INFO - ✅ LLM learning cycle completed
+2026-01-08 14:49:32,462 - __main__ - INFO - ✅ Learning cycle #1 completed
+2026-01-08 14:50:05,732 - database.db - INFO - 📝 Logged activity: Cursor.exe (ID: 3)
+2026-01-08 14:50:05,733 - trackers.window_tracker - INFO - 💾 Tracked Cursor.exe for 52s - productive (score: 95, confidence: 0.70)
+2026-01-08 14:50:05,733 - trackers.window_tracker - INFO - 🔄 Cursor.exe (productive) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:50:07,418 - notifications - INFO - Notification shown: Test Notification - LLM Context: False
+2026-01-08 14:50:07,419 - main_modern_gui - INFO - Test notification sent
+2026-01-08 14:50:12,832 - analysis.llm_integration - INFO - 🎯 Generating quote for VS Code (score: 85)
+2026-01-08 14:50:12,832 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:50:15,254 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): As you code in VS Code, harness each line's potential to build clarity and precision....
+2026-01-08 14:50:15,254 - analysis.llm_integration - INFO - 🎯 Generated quote: As you code in VS Code, harness each line's potential to build clarity and precision.
+2026-01-08 14:50:15,255 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:50:19,125 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): 1. Study advanced TypeScript concepts using the official documentation and TypeScript Handbook, focu...
+2026-01-08 14:50:19,125 - analysis.llm_integration - INFO - 🤖 Starting productivity analysis...
+2026-01-08 14:50:19,785 - database.db - INFO - 📝 Logged activity: python.exe (ID: 4)
+2026-01-08 14:50:19,786 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 14s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:50:19,786 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → python.exe (productive) [confidence: 0.80]
+2026-01-08 14:50:21,797 - trackers.window_tracker - INFO - 🔄 python.exe (productive) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:50:32,964 - analysis.llm_integration - INFO - 🤖 Starting ENHANCED LLM productivity analysis...
+2026-01-08 14:50:32,965 - analysis.llm_integration - INFO - 📊 Sending enhanced analysis request to LLM...
+2026-01-08 14:50:32,965 - analysis.llm_integration - INFO - 📝 Activities: 4, Model: llama3.2:latest
+2026-01-08 14:50:32,965 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:50:38,317 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): **Observation:** Your most productive activities are centered around the "Productivity Tracker" app,...
+2026-01-08 14:50:38,317 - analysis.llm_integration - INFO - ✅ LLM Enhanced Analysis received: **Observation:** Your most productive activities are centered around the "Productivity Tracker" app,...
+2026-01-08 14:50:57,567 - analysis.llm_integration - INFO - 🎯 Generating quote for python.exe (score: 50)
+2026-01-08 14:50:57,568 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:50:59,922 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Write code that improves with each execution, not just its first run....
+2026-01-08 14:50:59,923 - analysis.llm_integration - INFO - 🎯 Generated quote: Write code that improves with each execution, not just its first run.
+2026-01-08 14:51:01,964 - database.db - INFO - 📝 Logged activity: python.exe (ID: 5)
+2026-01-08 14:51:01,964 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 40s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:51:01,964 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:51:08,004 - database.db - INFO - 📝 Logged activity: python.exe (ID: 6)
+2026-01-08 14:51:08,005 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 6s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:51:08,005 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:51:11,758 - analysis.llm_integration - INFO - 🎯 Generating quote for VS Code (score: 85)
+2026-01-08 14:51:11,758 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:51:13,932 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): As you code in VS Code, tap into your inner developer, stay sharp!...
+2026-01-08 14:51:13,933 - analysis.llm_integration - INFO - 🎯 Generated quote: As you code in VS Code, tap into your inner developer, stay sharp!
+2026-01-08 14:51:13,933 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:51:18,860 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Here are three specific, actionable study recommendations:
+
+1. Learn to use TypeScript with VS Code ...
+2026-01-08 14:51:18,860 - analysis.llm_integration - INFO - 🤖 Starting productivity analysis...
+2026-01-08 14:51:20,072 - database.db - INFO - 📝 Logged activity: python.exe (ID: 7)
+2026-01-08 14:51:20,072 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 12s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:51:20,072 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → python.exe (productive) [confidence: 0.80]
+2026-01-08 14:51:22,081 - trackers.window_tracker - INFO - 🔄 python.exe (productive) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:51:28,022 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 14:51:31,666 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Here are three specific, actionable study recommendations:
+
+1. Study the "Efficient Workflow" module...
+2026-01-08 14:52:19,404 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:52:20,432 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:52:20,432 - analysis.llm_integration - INFO - ✅ Model changed from llama3.2:latest to mistral:latest
+2026-01-08 14:52:20,434 - main_modern_gui - INFO - Model changed to mistral:latest
+2026-01-08 14:52:22,991 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 14:52:24,014 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 14:52:31,964 - database.db - INFO - 📝 Logged activity: python.exe (ID: 8)
+2026-01-08 14:52:31,965 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 69s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:52:31,965 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → Cursor.exe (productive) [confidence: 0.70]
+2026-01-08 14:56:20,934 - database.db - INFO - 📝 Logged activity: Cursor.exe (ID: 9)
+2026-01-08 14:56:20,934 - trackers.window_tracker - INFO - 💾 Tracked Cursor.exe for 228s - productive (score: 95, confidence: 0.70)
+2026-01-08 14:56:20,935 - trackers.window_tracker - INFO - 🔄 Cursor.exe (productive) → chrome.exe (neutral) [confidence: 0.70]
+2026-01-08 14:56:22,940 - trackers.window_tracker - INFO - 🔄 chrome.exe (neutral) → chrome.exe (neutral) [confidence: 0.70]
+2026-01-08 14:56:30,991 - database.db - INFO - 📝 Logged activity: chrome.exe (ID: 10)
+2026-01-08 14:56:30,991 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 8s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:56:30,992 - trackers.window_tracker - INFO - 🔄 chrome.exe (neutral) → chrome.exe (neutral) [confidence: 0.70]
+2026-01-08 14:56:41,033 - database.db - INFO - 📝 Logged activity: chrome.exe (ID: 11)
+2026-01-08 14:56:41,034 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 10s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:56:41,034 - trackers.window_tracker - INFO - 🔄 chrome.exe (neutral) → chrome.exe (neutral) [confidence: 0.70]
+2026-01-08 14:56:59,134 - database.db - INFO - 📝 Logged activity: chrome.exe (ID: 12)
+2026-01-08 14:56:59,134 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 18s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:56:59,134 - trackers.window_tracker - INFO - 🔄 chrome.exe (neutral) → chrome.exe (neutral) [confidence: 0.70]
+2026-01-08 14:57:07,190 - database.db - INFO - 📝 Logged activity: chrome.exe (ID: 13)
+2026-01-08 14:57:07,191 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 8s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:57:07,191 - trackers.window_tracker - INFO - 🔄 chrome.exe (neutral) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:57:24,557 - analysis.llm_integration - INFO - 🤖 Starting ENHANCED LLM productivity analysis...
+2026-01-08 14:57:24,557 - analysis.llm_integration - INFO - 📊 Sending enhanced analysis request to LLM...
+2026-01-08 14:57:24,558 - analysis.llm_integration - INFO - 📝 Activities: 13, Model: mistral:latest
+2026-01-08 14:57:24,558 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: mistral:latest
+2026-01-08 14:58:16,071 - analysis.llm_integration - INFO - ✅ LLM Response received (mistral:latest): Observation: It's notable that the user spends a significant amount of time (approximately 478 secon...
+2026-01-08 14:58:16,072 - analysis.llm_integration - INFO - ✅ LLM Enhanced Analysis received: Observation: It's notable that the user spends a significant amount of time (approximately 478 secon...
+2026-01-08 14:58:18,138 - database.db - INFO - 📝 Logged activity: python.exe (ID: 14)
+2026-01-08 14:58:18,139 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 70s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:58:18,139 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:59:10,379 - database.db - INFO - 📝 Logged activity: python.exe (ID: 15)
+2026-01-08 14:59:10,380 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 52s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:59:10,380 - trackers.window_tracker - INFO - 🔄 python.exe (neutral) → python.exe (neutral) [confidence: 0.70]
+2026-01-08 14:59:16,734 - database.db - INFO - 📝 Logged activity: python.exe (ID: 16)
+2026-01-08 14:59:16,734 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 6s - neutral (score: 50, confidence: 0.70)
+2026-01-08 14:59:16,735 - trackers.window_tracker - INFO - 🛑 Enhanced window tracking STOPPED
+2026-01-08 14:59:16,737 - main_modern_gui - INFO - Tracking stopped
+2026-01-08 14:59:23,456 - main_app - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 14:59:23,457 - main_app - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 14:59:23,457 - main_app - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 14:59:23,457 - main_app - INFO - 🧠 Completed 0 learning cycles
+2026-01-08 14:59:23,575 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 14:59:23,575 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 14:59:23,576 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 14:59:23,576 - __main__ - INFO - 🧠 Completed 1 learning cycles
+2026-01-08 15:09:31,223 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 15:09:31,223 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 15:09:31,224 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:09:32,266 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:09:32,267 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 15:09:33,516 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello World!...
+2026-01-08 15:09:33,516 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 15:09:33,517 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 15:09:33,517 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 15:09:33,518 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 15:09:33,518 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 15:09:33,519 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:09:34,551 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:09:34,729 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 15:09:34,730 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 15:09:34,730 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 15:09:34,730 - __main__ - INFO - 🧠 Completed 0 learning cycles
+2026-01-08 15:09:57,118 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 15:09:57,119 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 15:09:57,119 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:09:58,169 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:09:58,170 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 15:09:59,434 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello, World!...
+2026-01-08 15:09:59,434 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 15:09:59,435 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 15:09:59,435 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 15:09:59,435 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 15:09:59,436 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 15:09:59,437 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:10:00,501 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:10:00,646 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 15:10:00,646 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 15:10:00,646 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 15:10:00,647 - __main__ - INFO - 🧠 Completed 0 learning cycles
+2026-01-08 15:13:44,405 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 15:13:44,405 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 15:13:44,405 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:13:45,445 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:13:45,446 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 15:13:46,993 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello, I'm here to help you with any questions or tasks you may have!...
+2026-01-08 15:13:46,994 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 15:13:46,994 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 15:13:46,994 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 15:13:47,005 - utils.goal_tracker - INFO - ✅ Goals table initialized
+2026-01-08 15:13:47,006 - __main__ - INFO - ✅ Goal Tracker initialized
+2026-01-08 15:13:47,006 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 15:13:47,007 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 15:13:47,007 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:13:48,044 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:13:48,208 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 15:13:48,208 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 15:13:48,209 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 15:13:48,209 - __main__ - INFO - 🧠 Completed 0 learning cycles
+2026-01-08 15:18:18,639 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 15:18:18,639 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 15:18:18,639 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:18:19,675 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:18:19,677 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 15:18:21,200 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello, I'm here to assist you with any questions or information you need....
+2026-01-08 15:18:21,201 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 15:18:21,201 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 15:18:21,202 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 15:18:21,205 - utils.goal_tracker - INFO - ✅ Goals table initialized
+2026-01-08 15:18:21,205 - __main__ - INFO - ✅ Goal Tracker initialized
+2026-01-08 15:18:21,206 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 15:18:21,206 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 15:18:21,207 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:18:22,266 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:18:22,439 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 15:18:22,439 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 15:18:22,439 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 15:18:22,439 - __main__ - INFO - 🧠 Completed 0 learning cycles
+2026-01-08 15:21:12,551 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 15:21:12,551 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 15:21:12,551 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:21:13,583 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:21:13,584 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 15:21:14,864 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello, World!...
+2026-01-08 15:21:14,865 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 15:21:14,866 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 15:21:14,866 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 15:21:14,869 - utils.goal_tracker - INFO - ✅ Goals table initialized
+2026-01-08 15:21:14,869 - __main__ - INFO - ✅ Goal Tracker initialized
+2026-01-08 15:21:14,870 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 15:21:14,870 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 15:21:14,871 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:21:15,905 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:21:16,070 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 15:21:16,070 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 15:21:16,070 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 15:21:16,071 - __main__ - INFO - 🧠 Completed 0 learning cycles
+2026-01-08 15:23:50,580 - database.db - INFO - ✅ Database initialized successfully
+2026-01-08 15:23:50,580 - __main__ - INFO - ✅ Database setup completed
+2026-01-08 15:23:50,580 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:23:51,624 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:23:51,625 - analysis.llm_integration - INFO - 🤖 Calling LLM with model: llama3.2:latest
+2026-01-08 15:23:53,135 - analysis.llm_integration - INFO - ✅ LLM Response received (llama3.2:latest): Hello, I'm here to assist you with any questions or information you may need!...
+2026-01-08 15:23:53,136 - __main__ - INFO - 🤖 LLM Client initialized - Available: True
+2026-01-08 15:23:53,136 - __main__ - INFO - 🧠 LLM Learning System initialized
+2026-01-08 15:23:53,136 - __main__ - INFO - Productivity Agent initialized
+2026-01-08 15:23:53,139 - utils.goal_tracker - INFO - ✅ Goals table initialized
+2026-01-08 15:23:53,140 - __main__ - INFO - ✅ Goal Tracker initialized
+2026-01-08 15:23:53,140 - __main__ - INFO - 🔄 Starting SMART monitoring loop with LLM
+2026-01-08 15:23:53,141 - __main__ - INFO - 🧠 Starting LLM learning system...
+2026-01-08 15:23:53,141 - analysis.llm_integration - INFO - 🔍 Checking LLM connection to http://localhost:11434...
+2026-01-08 15:23:54,166 - analysis.llm_integration - INFO - ✅ Local LLM connected. Available models: ['llama3.2:latest', 'mistral:latest', 'llama2:7b', 'codellama:7b']
+2026-01-08 15:23:54,375 - __main__ - INFO - 🛑 Stopping Productivity Agent...
+2026-01-08 15:23:54,375 - __main__ - INFO - 📊 Final stats - Activity changes: 0, LLM calls: 0
+2026-01-08 15:23:54,376 - __main__ - INFO - 🤖 LLM Stats - Success: 0, Failure: 0
+2026-01-08 15:23:54,376 - __main__ - INFO - 🧠 Completed 0 learning cycles

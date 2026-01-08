@@ -1,0 +1,245 @@
+2025-10-04 01:19:20,023 - database.db - INFO - Database initialized successfully
+2025-10-04 01:19:20,024 - __main__ - INFO - Database initialized successfully
+2025-10-04 01:19:20,024 - trackers.window_tracker - INFO - RealWindowsTracker initialized
+2025-10-04 01:19:48,895 - trackers.window_tracker - INFO - 🎯 Starting real window tracking loop
+2025-10-04 01:19:48,895 - trackers.window_tracker - INFO - 🏁 Real window tracking STARTED
+2025-10-04 01:19:48,896 - trackers.window_tracker - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 01:19:56,943 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 8s (ID: 1)
+2025-10-04 01:19:56,944 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:20:00,956 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 2)
+2025-10-04 01:20:00,956 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → python.exe
+2025-10-04 01:20:25,083 - trackers.window_tracker - INFO - 💾 Tracked python.exe for 24s (ID: 3)
+2025-10-04 01:20:25,083 - trackers.window_tracker - INFO - 🔄 python.exe → pycharm64.exe
+2025-10-04 01:20:35,140 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 10s (ID: 4)
+2025-10-04 01:20:35,140 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:20:37,151 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 5)
+2025-10-04 01:20:37,151 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:20:43,171 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 6s (ID: 6)
+2025-10-04 01:20:43,171 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:20:45,191 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 7)
+2025-10-04 01:20:45,191 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:20:47,212 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 8)
+2025-10-04 01:20:47,213 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:21:07,279 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 20s (ID: 9)
+2025-10-04 01:21:07,279 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:21:09,287 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 10)
+2025-10-04 01:21:09,287 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:21:11,307 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 11)
+2025-10-04 01:21:11,307 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:23:25,862 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 134s (ID: 12)
+2025-10-04 01:23:25,862 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:23:29,881 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 13)
+2025-10-04 01:23:29,881 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:23:33,906 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 14)
+2025-10-04 01:23:33,907 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:25:28,322 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 114s (ID: 15)
+2025-10-04 01:25:28,323 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:25:42,360 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 14s (ID: 16)
+2025-10-04 01:25:42,360 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:25:44,381 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 17)
+2025-10-04 01:25:44,382 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:26:58,593 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 74s (ID: 18)
+2025-10-04 01:26:58,593 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:27:04,618 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 6s (ID: 19)
+2025-10-04 01:27:04,619 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:28:40,977 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 96s (ID: 20)
+2025-10-04 01:28:40,977 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:28:49,007 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 8s (ID: 21)
+2025-10-04 01:28:49,007 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:28:51,022 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 22)
+2025-10-04 01:28:51,022 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:28:53,044 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 23)
+2025-10-04 01:28:53,045 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:29:09,112 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 16s (ID: 24)
+2025-10-04 01:29:09,112 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:29:13,137 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 25)
+2025-10-04 01:29:13,138 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:29:21,182 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 8s (ID: 26)
+2025-10-04 01:29:21,182 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:29:23,200 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 27)
+2025-10-04 01:29:23,200 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:29:35,243 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 12s (ID: 28)
+2025-10-04 01:29:35,243 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:29:37,264 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 29)
+2025-10-04 01:29:37,264 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:29:41,284 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 30)
+2025-10-04 01:29:41,284 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:29:43,290 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 31)
+2025-10-04 01:29:43,290 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:29:53,343 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 10s (ID: 32)
+2025-10-04 01:29:53,343 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:29:57,369 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 33)
+2025-10-04 01:29:57,369 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:30:01,386 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 34)
+2025-10-04 01:30:01,386 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:30:09,420 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 8s (ID: 35)
+2025-10-04 01:30:09,420 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:30:11,434 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 36)
+2025-10-04 01:30:11,434 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:30:15,458 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 37)
+2025-10-04 01:30:15,458 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:30:17,469 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 38)
+2025-10-04 01:30:17,469 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:30:35,546 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 18s (ID: 39)
+2025-10-04 01:30:35,547 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:30:47,607 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 12s (ID: 40)
+2025-10-04 01:30:47,607 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:30:55,656 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 8s (ID: 41)
+2025-10-04 01:30:55,656 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:31:05,703 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 10s (ID: 42)
+2025-10-04 01:31:05,703 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:31:23,772 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 18s (ID: 43)
+2025-10-04 01:31:23,772 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:31:27,784 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 44)
+2025-10-04 01:31:27,784 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:31:39,832 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 12s (ID: 45)
+2025-10-04 01:31:39,832 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:31:49,864 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 10s (ID: 46)
+2025-10-04 01:31:49,864 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:31:51,875 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 47)
+2025-10-04 01:31:51,875 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:32:11,957 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 20s (ID: 48)
+2025-10-04 01:32:11,957 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:19,985 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 8s (ID: 49)
+2025-10-04 01:32:19,986 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:24,007 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 4s (ID: 50)
+2025-10-04 01:32:24,007 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:30,052 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 6s (ID: 51)
+2025-10-04 01:32:30,052 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:32,071 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 2s (ID: 52)
+2025-10-04 01:32:32,071 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:38,106 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 6s (ID: 53)
+2025-10-04 01:32:38,106 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:44,141 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 6s (ID: 54)
+2025-10-04 01:32:44,141 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:32:46,160 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 2s (ID: 55)
+2025-10-04 01:32:46,160 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:33:10,241 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 24s (ID: 56)
+2025-10-04 01:33:10,241 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:33:26,319 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 16s (ID: 57)
+2025-10-04 01:33:26,319 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:33:50,407 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 24s (ID: 58)
+2025-10-04 01:33:50,407 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:33:52,421 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 2s (ID: 59)
+2025-10-04 01:33:52,422 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:33:56,447 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 4s (ID: 60)
+2025-10-04 01:33:56,448 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:34:02,484 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 6s (ID: 61)
+2025-10-04 01:34:02,484 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:34:10,518 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 8s (ID: 62)
+2025-10-04 01:34:10,518 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:34:58,699 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 48s (ID: 63)
+2025-10-04 01:34:58,699 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:35:08,766 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 10s (ID: 64)
+2025-10-04 01:35:08,766 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:35:10,772 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 65)
+2025-10-04 01:35:10,772 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:35:14,804 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 4s (ID: 66)
+2025-10-04 01:35:14,804 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:35:28,875 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 14s (ID: 67)
+2025-10-04 01:35:28,875 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:35:30,889 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 68)
+2025-10-04 01:35:30,889 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:36:55,195 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 84s (ID: 69)
+2025-10-04 01:36:55,195 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:37:07,221 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 12s (ID: 70)
+2025-10-04 01:37:07,222 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:37:09,241 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 71)
+2025-10-04 01:37:09,241 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:37:11,253 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 72)
+2025-10-04 01:37:11,253 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:37:23,301 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 12s (ID: 73)
+2025-10-04 01:37:23,302 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:37:27,325 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 74)
+2025-10-04 01:37:27,325 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:37:37,368 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 10s (ID: 75)
+2025-10-04 01:37:37,368 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:37:39,375 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 76)
+2025-10-04 01:37:39,375 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:37:49,402 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 10s (ID: 77)
+2025-10-04 01:37:49,402 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:37:53,410 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 78)
+2025-10-04 01:37:53,410 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:37:59,450 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 6s (ID: 79)
+2025-10-04 01:37:59,451 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:38:01,465 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 80)
+2025-10-04 01:38:01,466 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:38:07,493 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 6s (ID: 81)
+2025-10-04 01:38:07,493 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:38:13,528 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 6s (ID: 82)
+2025-10-04 01:38:13,528 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:38:17,538 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 83)
+2025-10-04 01:38:17,538 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → chrome.exe
+2025-10-04 01:38:25,585 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 8s (ID: 84)
+2025-10-04 01:38:25,585 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:38:29,601 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 85)
+2025-10-04 01:38:29,601 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:38:31,613 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 2s (ID: 86)
+2025-10-04 01:38:31,613 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:38:33,621 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 87)
+2025-10-04 01:38:33,621 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:39:07,729 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 34s (ID: 88)
+2025-10-04 01:39:07,729 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:39:13,747 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 6s (ID: 89)
+2025-10-04 01:39:13,748 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → pycharm64.exe
+2025-10-04 01:39:19,766 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 6s (ID: 90)
+2025-10-04 01:39:19,766 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:39:21,775 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 91)
+2025-10-04 01:39:21,775 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:42:56,593 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 214s (ID: 92)
+2025-10-04 01:42:56,593 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:43:02,618 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 6s (ID: 93)
+2025-10-04 01:43:02,618 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:43:04,630 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 94)
+2025-10-04 01:43:04,630 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:43:14,669 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 10s (ID: 95)
+2025-10-04 01:43:14,669 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:43:28,217 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 13s (ID: 96)
+2025-10-04 01:43:28,217 - trackers.window_tracker - INFO - 🛑 Real window tracking STOPPED
+2025-10-04 01:43:34,896 - database.db - INFO - Database initialized successfully
+2025-10-04 01:43:34,896 - __main__ - INFO - Database initialized successfully
+2025-10-04 01:43:34,897 - trackers.window_tracker - INFO - RealWindowsTracker initialized
+2025-10-04 01:43:34,908 - database.db - INFO - Database initialized successfully
+2025-10-04 01:43:34,908 - __main__ - INFO - Database initialized successfully
+2025-10-04 01:43:34,909 - trackers.window_tracker - INFO - RealWindowsTracker initialized
+2025-10-04 01:43:34,951 - trackers.browser_tracker - INFO - Browser tracker initialized on port 3000
+2025-10-04 01:43:34,953 - trackers.browser_tracker - INFO - Browser tracker initialized on port 3000
+2025-10-04 01:44:08,866 - trackers.window_tracker - INFO - 🎯 Starting real window tracking loop
+2025-10-04 01:44:08,866 - trackers.window_tracker - INFO - 🏁 Real window tracking STARTED
+2025-10-04 01:44:08,867 - trackers.window_tracker - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 01:44:08,867 - trackers.browser_tracker - INFO - Starting browser tracker server on port 3000
+2025-10-04 01:44:08,867 - werkzeug - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-10-04 01:44:08,880 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+2025-10-04 01:44:08,880 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-04 01:44:10,873 - werkzeug - INFO - 127.0.0.1 - - [04/Oct/2025 01:44:10] "GET /api/health HTTP/1.1" 200 -
+2025-10-04 01:44:10,874 - trackers.browser_tracker - INFO - ✅ Browser tracker server started successfully on port 3000
+2025-10-04 01:44:38,981 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 30s (ID: 97)
+2025-10-04 01:44:38,981 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 01:44:40,993 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 98)
+2025-10-04 01:44:40,994 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 01:44:43,007 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 2s (ID: 99)
+2025-10-04 01:44:43,007 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:44:45,027 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 2s (ID: 100)
+2025-10-04 01:44:45,027 - trackers.window_tracker - INFO - 🔄 chrome.exe → chrome.exe
+2025-10-04 01:44:49,265 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 4s (ID: 101)
+2025-10-04 01:44:49,265 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 01:45:41,760 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 52s (ID: 102)
+2025-10-04 01:45:41,760 - trackers.window_tracker - INFO - 🛑 Real window tracking STOPPED
+2025-10-04 01:45:41,760 - trackers.browser_tracker - INFO - Browser tracker server stopped
+2025-10-04 03:12:10,546 - database.db - INFO - Database initialized successfully
+2025-10-04 03:12:10,546 - __main__ - INFO - Database initialized successfully
+2025-10-04 03:12:10,546 - trackers.window_tracker - INFO - RealWindowsTracker initialized
+2025-10-04 03:12:10,597 - trackers.browser_tracker - INFO - Browser tracker initialized on port 3000
+2025-10-04 03:12:11,636 - analysis.local_llm_analyzer - INFO - Local LLM Analyzer initialized with model: llama2:7b
+2025-10-04 03:13:02,719 - trackers.window_tracker - INFO - 🎯 Starting real window tracking loop
+2025-10-04 03:13:02,719 - trackers.window_tracker - INFO - 🏁 Real window tracking STARTED
+2025-10-04 03:13:02,721 - trackers.window_tracker - INFO - 🎯 Started tracking: pycharm64.exe
+2025-10-04 03:13:06,732 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 4s (ID: 103)
+2025-10-04 03:13:06,732 - trackers.window_tracker - INFO - 🔄 pycharm64.exe → explorer.exe
+2025-10-04 03:13:08,748 - trackers.window_tracker - INFO - 💾 Tracked explorer.exe for 2s (ID: 104)
+2025-10-04 03:13:08,748 - trackers.window_tracker - INFO - 🔄 explorer.exe → chrome.exe
+2025-10-04 03:13:10,926 - trackers.window_tracker - INFO - 💾 Tracked chrome.exe for 2s (ID: 105)
+2025-10-04 03:13:10,926 - trackers.window_tracker - INFO - 🔄 chrome.exe → pycharm64.exe
+2025-10-04 03:13:34,204 - trackers.window_tracker - INFO - 💾 Tracked pycharm64.exe for 23s (ID: 106)
+2025-10-04 03:13:34,205 - trackers.window_tracker - INFO - 🛑 Real window tracking STOPPED
