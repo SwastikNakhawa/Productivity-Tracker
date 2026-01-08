@@ -1,0 +1,1 @@
+Productivity Tracker is a simple, data-driven tool designed to help users monitor daily habits, track work sessions, and visualize productivity trends. It provides an organized dashboard with logs, charts, and insights to improve focus and efficiency over time.
